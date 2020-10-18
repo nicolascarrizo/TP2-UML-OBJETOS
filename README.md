@@ -8,6 +8,6 @@ Adjunto el TP - UML
 
 Adjunto la reentregra con la correción del sueldo neto - UML
 
-
+file:///C:/Users/Carrizo/Downloads/UML2.pdf
 
 Saludos!
