@@ -1,13 +1,9 @@
 # TP2-UML-OBJETOS
 
 
-Adjunto el TP - UML
+Adjunto la entrega final del TP - UML
 
+[UML-TP2.pdf](https://github.com/nicolascarrizo/TP2-UML-OBJETOS/files/5433312/UML-TP2.pdf)
 
-[UMLTP2.pdf](https://github.com/nicolascarrizo/TP2-UML-OBJETOS/files/5178617/UMLTP2.pdf)
-
-Adjunto la reentrega con el cambio del sueldoNeto 
-
-[UML2.pdf](https://github.com/nicolascarrizo/TP2-UML-OBJETOS/files/5398381/UML2.pdf)
 
 Saludos!
